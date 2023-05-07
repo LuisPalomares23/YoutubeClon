@@ -30,6 +30,7 @@ aside{
     align-items: center;
     width: 80px;
     height: 100px;
+    position: sticky;
 }
 
 aside div{
@@ -59,7 +60,6 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* margin-top: none; */
 }
 
 #logo{
