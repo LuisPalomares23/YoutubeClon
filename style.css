@@ -60,6 +60,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
 }
 
 #logo{
@@ -80,8 +81,8 @@ nav{
     align-items: center;
     background-color: rgb(80, 76, 76);
     border-style:solid 2px;
-    border-radius: 25px;
-
+    border-radius: 25px
+    
 }
 
 #busqueda input{
